@@ -1,15 +1,23 @@
 ¿Qué es OWASP y cuál es su principal objetivo? (3 pts) es una organización sin fines de lucro que se dedica a mejorar la seguridad del software a nivel global
 
 ¿Qué es el OWASP Top 10 y por qué es importante para los desarrolladores? (4 pts)
-
+es una guía estándar del sector que enumera los riesgos más críticos para la seguridad de las aplicaciones
 Describe brevemente dos de las vulnerabilidades del OWASP Top 10 2017. (4 pts)
+se exponen los problemas de seguridad de las aplicaciones web, centrándose en los 10 riesgos más importantes
 
 ¿Qué es OWASP ASVS y cuáles son sus niveles de verificación? (4 pts)
+un estándar abierto que establece la cobertura y el nivel de rigor esperados a la hora de realizar la verificación de seguridad de aplicaciones web
 
 ¿Cuál es la diferencia entre los niveles 1 y 3 de OWASP ASVS? (4 pts)
+un estándar abierto que establece la cobertura y el nivel de rigor esperados a la hora de realizar la verificación de seguridad de aplicaciones web
 
 ¿Qué es el modelado de amenazas y cuáles son sus beneficios? (4 pts)
+método para identificar por adelantado posibles vulnerabilidades
 
 Nombra dos metodologías de modelado de amenazas. (3 pts)
+Spoofing Denial of Service
+
 
 ¿Qué es el SDL y cómo ayuda a la seguridad del software?
+El SDL proporciona requisitos de seguridad detallados y medibles para que los desarrolladores e ingenieros de Microsoft
+
